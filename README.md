@@ -1,21 +1,21 @@
-# 📧 Intranet Mail System
+#  Intranet Mail System
 
 A simple and secure internal mailing system for organizations or institutions, built using **Java**, **JSP/Servlets**, and **MySQL**. This project allows registered users within the same network to send and receive messages efficiently, simulating a lightweight intranet-based email service.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 User Registration & Login (with authentication)
-- ✉️ Compose, Send, and Receive Mails
-- 📥 Inbox and 📤 Sent Mailbox
-- 🗑️ Delete Emails
-- 📂 Save Drafts (optional if implemented)
-- 👨‍💼 Admin control panel (optional if implemented)
+-  User Registration & Login (with authentication)
+-  Compose, Send, and Receive Mails
+-  Inbox and Sent Mailbox
+-  Delete Emails
+-  Save Drafts (optional if implemented)
+-  Admin control panel (optional if implemented)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, JSP
 - **Backend**: Java Servlets
@@ -24,7 +24,7 @@ A simple and secure internal mailing system for organizations or institutions, b
 
 ---
 
-## 🧑‍💻 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -46,9 +46,9 @@ Deploy the WAR file or project directory to the Tomcat webapps folder.
 Start the Tomcat server and access the app via:
 http://localhost:8080/IntranetMailSystem/
 
-🧾 License
+ License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
+ Author
 Aravinth
 GitHub: @aravinth-1
